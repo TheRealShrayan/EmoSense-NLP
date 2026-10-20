@@ -135,7 +135,7 @@ pip install streamlit scikit-learn spacy pandas numpy matplotlib seaborn plotly 
 Run the following command to start the web app:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 *(Note: If your virtual environment is not automatically active, you can also use `uv run streamlit run app.py`)*
